@@ -50,7 +50,7 @@ class PostComponent extends HTMLElement {
             display: flex;
             margin-top: 120px;
             justify-content: center;
-            margin-left: 12rem;
+            margin-left: 14rem;
           }
   
           .post {
